@@ -1,4 +1,4 @@
-#Capstone
+Capstone
 
 팀 정보
 
